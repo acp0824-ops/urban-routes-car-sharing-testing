@@ -2,19 +2,19 @@
 
 ## 📋 Descripción
 
-Este proyecto documenta el proceso de diseño y ejecución de pruebas manuales para la funcionalidad **Car Sharing** de la aplicación Urban Routes, desarrollado como parte de mi formación como QA Engineer.
+Este proyecto documenta el proceso de diseño y ejecución de pruebas manuales para la funcionalidad **Car Sharing** de la aplicación Urban Routes, desarrollado como parte de mi formación en QA Engineering.
 
-Durante el proyecto elaboré la documentación de pruebas, diseñé escenarios funcionales y ejecuté pruebas para validar el comportamiento de la aplicación en diferentes navegadores y resoluciones de pantalla.
+El objetivo fue validar tanto el diseño de la interfaz como el comportamiento funcional del proceso de reserva de un automóvil, elaborando documentación de pruebas y aplicando técnicas de diseño de casos de prueba.
 
 ---
 
 ## 🎯 Objetivos
 
-- Verificar el diseño del formulario de reserva.
-- Validar la funcionalidad del proceso de reserva.
+- Validar el diseño del formulario de reserva.
+- Verificar la funcionalidad del proceso de reserva de un automóvil.
 - Diseñar documentación de pruebas.
 - Ejecutar pruebas manuales.
-- Registrar los resultados obtenidos durante las pruebas.
+- Documentar los resultados obtenidos durante las pruebas.
 
 ---
 
@@ -30,8 +30,6 @@ Durante el proyecto elaboré la documentación de pruebas, diseñé escenarios f
 
 ## 🌐 Entornos de prueba
 
-Las pruebas fueron diseñadas para ejecutarse en:
-
 | Navegador | Resolución |
 |-----------|------------|
 | Google Chrome | 800 × 600 |
@@ -39,44 +37,69 @@ Las pruebas fueron diseñadas para ejecutarse en:
 
 ---
 
-## 📄 Artefactos del proyecto
+## 📄 Documentación del proyecto
 
-Este repositorio incluye la documentación elaborada durante el proceso de pruebas:
+Este repositorio contiene los principales artefactos creados durante el proceso de pruebas.
 
-- Checklist de revisión de diseño.
-- Checklist funcional para "Método de pago" y "Agregar tarjeta".
-- Casos de prueba para el botón **Reservar**.
-- Casos de prueba para la reserva de automóvil.
+### ✅ 01. Design Checklist
+
+Lista de comprobación utilizada para validar que la interfaz de usuario coincidiera con los diseños definidos en Figma, verificando distribución de elementos, textos, apariencia visual y ventanas emergentes.
 
 ---
 
-## 🧪 Técnicas de diseño de pruebas
+### ✅ 02. Payment Method Checklist
 
-Durante el proyecto se aplicaron técnicas como:
+Lista de comprobación funcional para validar las ventanas **"Método de pago"** y **"Agregar tarjeta"**, aplicando técnicas de diseño de pruebas como:
 
-- Clases de equivalencia.
-- Análisis de valores límite.
-- Pruebas positivas y negativas.
-- Cross-Browser Testing.
-- Validación de interfaz de usuario.
+- Clases de equivalencia
+- Análisis de valores límite
+- Escenarios positivos
+- Escenarios negativos
+
+---
+
+### ✅ 03. Book Button Test Cases
+
+Conjunto de casos de prueba diseñados para verificar el comportamiento del botón **Reservar**, considerando diferentes escenarios de uso y validando el resultado esperado.
+
+---
+
+### ✅ 04. Car Booking Test Cases
+
+Casos de prueba destinados a validar el flujo completo de reserva de un automóvil, desde la selección del servicio hasta la confirmación de la reserva.
+
+---
+
+## 🧪 Técnicas de diseño de pruebas aplicadas
+
+Durante el proyecto se utilizaron diferentes técnicas de QA para garantizar una adecuada cobertura de pruebas:
+
+- Clases de equivalencia
+- Análisis de valores límite
+- Casos positivos y negativos
+- Diseño de casos de prueba
+- Checklists funcionales
+- Validación de interfaz de usuario
+- Cross-Browser Testing
 
 ---
 
 ## 💼 Competencias demostradas
 
-- Diseño de pruebas.
-- Creación de checklists.
-- Elaboración de casos de prueba.
-- Pruebas funcionales.
-- UI Testing.
-- Cross-Browser Testing.
-- Documentación de pruebas.
+- Test Design
+- Manual Testing
+- Functional Testing
+- UI Testing
+- Cross-Browser Testing
+- Test Documentation
+- Bug Reporting
+- Quality Assurance
 
 ---
 
 ## 📌 Nota
 
-Los reportes de errores fueron registrados en Jira durante el desarrollo del proyecto como parte del Bootcamp de QA Engineering. Actualmente no están disponibles porque el entorno del curso ya no se encuentra activo.
+Los reportes de errores fueron registrados en Jira durante el desarrollo del proyecto como parte del Bootcamp de QA Engineering. Actualmente no se incluyen en este repositorio porque el entorno del curso ya no se encuentra disponible.
 
 ---
 
@@ -84,7 +107,6 @@ Los reportes de errores fueron registrados en Jira durante el desarrollo del pro
 
 **Anny Pallares**
 
-QA Engineer enfocada en pruebas manuales, automatización y aseguramiento de la calidad del software.
+QA Engineer con interés en pruebas manuales, automatización y aseguramiento de la calidad del software.
 
-🔗 LinkedIn:
-www.linkedin.com/in/anny-pallares94
+📎 LinkedIn: https://www.linkedin.com/in/anny-pallares94
