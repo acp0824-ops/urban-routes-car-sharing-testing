@@ -96,6 +96,21 @@ Durante el proyecto se utilizaron diferentes técnicas de QA para garantizar una
 - Quality Assurance
 
 ---
+## 📈 Resultados del proyecto
+
+Este proyecto me permitió aplicar el proceso completo de pruebas manuales, desde el análisis de los requisitos hasta la documentación de los resultados. Como resultado, diseñé listas de verificación y casos de prueba que facilitaron la validación de la funcionalidad de reserva de automóviles, identificando posibles inconsistencias en la interfaz y el comportamiento de la aplicación.
+---
+
+## 📚 Aprendizajes
+
+Durante el desarrollo de este proyecto fortalecí habilidades clave para el rol de QA, entre ellas:
+
+- Analizar requisitos funcionales para diseñar una estrategia de pruebas.
+- Aplicar técnicas como clases de equivalencia y análisis de valores límite.
+- Diseñar listas de verificación y casos de prueba para distintos escenarios.
+- Ejecutar pruebas funcionales y de compatibilidad entre navegadores.
+- Documentar hallazgos de manera clara y organizada utilizando herramientas como Jira.
+---
 
 ## 📌 Nota
 
